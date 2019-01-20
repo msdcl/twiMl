@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="man" language="en">{{io_message}}</Say>
+    <Say voice="man" language="en">hi, mahnedra singh</Say>
 </Response>
